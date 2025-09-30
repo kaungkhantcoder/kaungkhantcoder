@@ -37,6 +37,7 @@
                 <img src="https://skillicons.dev/icons?i=python" height="50" alt="python"  />
                 <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
                 <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow"  />
+                <img src="https://skillicons.dev/icons?i=scikitlearn" height="50" alt="scikitlearn"  />
                 <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode"  />
                 <img src="https://skillicons.dev/icons?i=git" height="50" alt="git"  />
 
