@@ -53,15 +53,14 @@
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaungkhantcoder&show_icons=true&theme=tokyonight&rank_icon=percentile"/>
         </td>
-        <td>
+        <!-- <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaungkhantcoder&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
-        </td>
+        </td> -->
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaungkhantcoder&layout=compact&theme=vue-dark&hide_border=true"/>
         </td>
     </tr>
 </table>
-
 <table>
     <tr>
         <td>
