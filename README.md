@@ -1,7 +1,7 @@
 <h2>Hi there 👋, I'm Kaung Khant</h2>
 
 <div align="start">
-  <img height="150" src="/assets/Me&Xplo.gif"  />
+  <img height="250" src="/assets/Me&Xplo.gif"  />
 </div>
 
 <h3 align="left">👩‍💻  About Me</h3>
