@@ -40,6 +40,7 @@
                 <img src="https://skillicons.dev/icons?i=scikitlearn" height="50" alt="scikitlearn"  />
                 <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode"  />
                 <img src="https://skillicons.dev/icons?i=git" height="50" alt="git"  />
+                <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux" />
 
 </div>
 
