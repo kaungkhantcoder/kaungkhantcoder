@@ -9,7 +9,7 @@
 ###
 
 <p align="left">
-<h3>I'm passionate about building intelligent systems, including deep learning models. I am an absolute beginner, by the way.</h3>- 📚 I'm currently learning Backend Development<br>- ⚡ I'm a self-taught learner of new technologies
+<h3>I'm passionate about building intelligent systems, including deep learning models. I am an absolute beginner, by the way.</h3>- 📚 I'm currently learning Backend Development and Machine Learning.<br>- ⚡ I'm a self-taught learner of new technologies
 </p>
 
 ###
