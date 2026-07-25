@@ -34,6 +34,7 @@
 #### Language Icons & Technologies
 
 <div align="start">
+                <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs"  />
                 <img src="https://skillicons.dev/icons?i=python" height="50" alt="python"  />
                 <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
                 <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow"  />
