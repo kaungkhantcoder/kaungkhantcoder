@@ -21,6 +21,9 @@
     <a href="" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4D00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="reddit"  />
     </a>
+      <a href="" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Linkedin&logo=reddit&label=&color=FF4D00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin"  />
+    </a>
     <a href="" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram"  />
     </a>
